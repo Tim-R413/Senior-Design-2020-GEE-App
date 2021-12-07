@@ -1,4 +1,8 @@
 # Senior-Design-2020
-Repository for the the GEE app design project
+This repository holds documentation fo the development of a Google Earth Application capable of estimating Biomass, Nitrogen and percent Nitrogen present in cover crops from satellite imagery. 
 
-link to Earth Engine project repo: https://code.earthengine.google.com/?accept_repo=users/rileytim413/Senior_design
+The final application can be accessed here: https://rileytim413.users.earthengine.app/view/covercrop-biomass-and-nitrogen-estimator
+
+The application source code for a deeper analysis can be accessed here: https://code.earthengine.google.com/4aaa127fa5e6daa37a6986a94de0c7eb
+
+
